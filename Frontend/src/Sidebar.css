@@ -59,13 +59,13 @@ button:hover {
     border-radius: 10px;
 }
 
-.sign {
+/* .sign {
     padding: 10px;
     margin: 10px;
     font-size: 14px;
     text-align: center;
     border-top: solid 0.25px rgba(255, 255, 255, 0.5);
-}
+} */
 
 .fa-trash {
     opacity: 0;
