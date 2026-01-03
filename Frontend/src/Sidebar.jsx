@@ -91,9 +91,9 @@ function Sidebar() {
                 }
             </ul>
  
-            <div className="sign">
+            {/* <div className="sign">
                 <p>By Shaik Sadiya &hearts;</p>
-            </div>
+            </div> */}
         </section>
     )
 }
