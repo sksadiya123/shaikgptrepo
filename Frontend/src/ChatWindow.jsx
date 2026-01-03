@@ -94,7 +94,7 @@ function ChatWindow() {
                     <div id="submit" onClick={getReply}><i className="fa-solid fa-paper-plane"></i></div>
                 </div>
                 <p className="info">
-                    ShaikGPT can make mistakes. Check important info. See Cookie Preferences.
+                    ShaikGPT can make mistakes. Check important info. See Cookie Preferences., Made By Sadiya
                 </p>
             </div>
         </div>
