@@ -39,5 +39,6 @@ An AI-powered full-stack chatbot application that allows users to interact with 
 - Render (Backend & Frontend)
 
 
-
+Future Improvements:
+🔐 User Authentication: Implement secure login and signup using JWT/OAuth to provide personalized chat sessions and user-specific message history.
 
