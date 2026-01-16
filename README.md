@@ -13,7 +13,6 @@ An AI-powered full-stack chatbot application that allows users to interact with 
 - 🕒 Message history persistence
 - ⏳ Loaders and typing indicators
 - 📝 Formatted and readable AI responses
-- 🔐 Secure environment variable handling
 - 🌐 Deployed frontend and backend
 
 ---
